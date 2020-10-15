@@ -1,0 +1,12 @@
+GEETHUB LOGIN DETAILS
+SANDEEP-139 github
+pass SANDEEPSINGH123456
+https://github.com/arpitdubey17/MarcheAdminpanel.git
+ git config --global user.email "139sandeepsingh@gmail.com"
+  git config --global user.name "SANDEEP-139"
+Git Commands --
+1 - git status
+2 - git add .
+3 - git status
+4 - git commit -m"your work name"
+5 - git push origin sameer
